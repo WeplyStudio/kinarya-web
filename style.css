@@ -1,0 +1,90 @@
+img {
+    width: 400px;
+    margin:0px;
+    padding: 0px;
+}
+body {
+    background-color: #00308F;
+    font-family: Poppins;
+}
+.navbar {
+    background-color: #00308F;
+    color: white;
+}
+.card-circle {
+    background-color: #000080;
+    color: white;
+    width: 90%;
+    border-radius: 15px;
+    padding: 3px;
+}
+.header {
+    font-size: 35px;
+    line-height: 35px;
+}
+.h {
+    padding:5px;
+}
+.button-1 {
+    background-color: white;
+    color: #00308F;
+    width: 95%;
+    border-radius: 30px;
+    padding: 10px;
+}
+.button-1:hover {
+    background-color: #00308F;
+    color: white;
+    width: 95%;
+    border-radius: 30px;
+    padding: 10px;
+    border: 1px solid white;
+}
+.button-2:hover {
+    background-color: white;
+    color: #00308F;
+    width: 95%;
+    border-radius: 30px;
+    padding: 10px;
+    margin:8px
+}
+.button-2 {
+    background-color: #00308F;
+    color: white;
+    width: 95%;
+    border-radius: 30px;
+    padding: 10px;
+    border: 1px solid white;
+    margin:8px
+}
+.blue {
+    color: #00308F;
+}
+.white {
+    color: white;
+}
+.card-about {
+    width: 85%;
+    padding: 20px;
+    background-color: transparent;
+    border-radius: 15px;
+    border: 1px solid #000080;
+}
+.icon {
+      vertical-align: middle;
+      width: 24px; 
+      height: 24px; 
+    }
+.card-news {
+    width: 90%;
+    background-color: #000080;
+    padding: 10px;
+    border-radius: 15px;
+}
+input[type="email"] {
+    width: 100%;
+    border-radius: 35px;
+    text-align: center;
+    height: 35px;
+    color: #000080;
+}
